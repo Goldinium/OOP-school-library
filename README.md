@@ -67,10 +67,10 @@ In order to run this project you need to:
 
 ### Install & Usage
 
-No instalattion for this project, just run
+No instalattion for this project, for now..
 
 ```sh
- ruby morse_decoder.rb
+ **
 ```
 
 <!-- AUTHORS -->
