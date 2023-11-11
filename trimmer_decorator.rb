@@ -1,7 +1,8 @@
-require './base_decorator'
+require_relative 'basedecorator'
 
 class TrimmerDecorator < BaseDecorator
   def correct_name
-    @nameable.correct_name.slice(0, 10)
+    original_name = @nameable.correct_name
+    original_name.length > 10 ? original_name[0..9] : original_name
   end
 end
