@@ -87,7 +87,7 @@ No instalattion for this project, for now..
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Sound feature, decode sound beeps!
+> Thinking about it..
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
